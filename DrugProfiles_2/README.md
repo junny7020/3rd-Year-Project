@@ -5,12 +5,12 @@ Finding improvement and applying the deep-profiling method
 ------------------------
 +Use of the given data (Ones that were hard to understand)
 
-Cell_Line_Features_PANCAN_simple_MOBEM.tsv:
+Cell_Line_Features_PANCAN_simple_MOBEM.tsv:<br>
 
 On the first column-> part of the DNA that has been mutated<br>
-On the first row-> there is a list of long digits of numbers (Cosmic ID)
-Meaning this is a table of cancer cells(Cosmic ID) indicating which part of their DNA has been mutated.
-This will be used for the feature of cancer_cells
+On the first row-> there is a list of long digits of numbers (Cosmic ID)<br>
+Meaning this is a table of cancer cells(Cosmic ID) indicating which part of their DNA has been mutated.<br>
+This will be used for the feature of cancer_cells<br>
 
 
 ---------------------
@@ -18,35 +18,35 @@ This will be used for the feature of cancer_cells
 
 
 
--Cosmis ID:
-Specific genomic location
-identification of cancer cells
-each cancer cell has a different cosmic id
+-Cosmis ID:<br>
+Specific genomic location<br>
+identification of cancer cells<br>
+each cancer cell has a different cosmic id<br>
 
 
 
--Drug ID:
-identification of drug
-for some reason, some drugs have more than one ids
-Although this will not be a problem in drug response because on the cell_line data, they use the name of the drug, and to distinguish a drug, PubChem is the most effective way.
+-Drug ID:<br>
+identification of drug<br>
+for some reason, some drugs have more than one ids<br>
+Although this will not be a problem in drug response because on the cell_line data, they use the name of the drug, and to distinguish a drug, PubChem is the most effective way.<br>
 
 
 
--Puchem (id)
-a special code for a drug
-there is a python library which has the largest collection of chemical data.
-there are almost all of the PubChem id for the drugs that are being used in this project
+-Puchem (id)<br>
+a special code for a drug<br>
+there is a python library which has the largest collection of chemical data.<br>
+there are almost all of the PubChem id for the drugs that are being used in this project<br>
 
-+ There are about 15 drugs that are not found while running the code. So to improve the prediction, it would be better to include these data. I may add the PubChem id for these drugs manually.
++ There are about 15 drugs that are not found while running the code. So to improve the prediction, it would be better to include these data. I may add the PubChem id for these drugs manually.<br>
 
 
 
--Sanger Model
-I have not quite understood it properly, but it seems like a code for a machine-learning model for this project
-Maybe this could be a standard for comparing the prediction model with my DeepProfiling model
+-Sanger Model<br>
+I have not quite understood it properly, but it seems like a code for a machine-learning model for this project<br>
+Maybe this could be a standard for comparing the prediction model with my DeepProfiling model<br>
 
 -------------------
-Before merging the data
+Before merging the data<br>
 - 
 
 
