@@ -2,6 +2,21 @@ Minjun 3rd Year project
 
 Using the jupyter-notebook implemented from https://github.com/MarinaKrivova/DrugProfiles_2
 Finding improvement and applying the deep-profiling method
+
+-------------------------------
+Improvement that has been made <br>
+ used gdsc2 for the data as well<br>
+ modeled the deep profiling<br>
+ 
+ -------------------------
+The next thing to do <br>
+fix the code in deep profiling
+- error on running on colab
+
+update the versions on colab
+- download the files and update the progress
+
+
 ------------------------
 +Use of the given data (Ones that were hard to understand)
 
