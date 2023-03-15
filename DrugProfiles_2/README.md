@@ -8,6 +8,7 @@ Improvement that has been made <br>
  used gdsc2 for the data as well<br>
  modeled the deep profiling<br>
  
+ 
  -------------------------
 The next thing to do <br>
 fix the code in deep profiling
@@ -16,6 +17,8 @@ fix the code in deep profiling
 update the versions on colab
 - download the files and update the progress
 
+add data from sanger
+- https://cellmodelpassports.sanger.ac.uk/passports?model_type=cellline&datasets=drugs
 
 ------------------------
 +Use of the given data (Ones that were hard to understand)
@@ -59,7 +62,8 @@ there are almost all of the PubChem id for the drugs that are being used in this
 -Sanger Model<br>
 I have not quite understood it properly, but it seems like a code for a dna in cancer cells<br>
 identifier assigned to a DNA sequence obtained using the Sanger sequencing method<br>
-
+https://cellmodelpassports.sanger.ac.uk/passports?model_type=cellline&datasets=drugs  <br>
+From this link, if there are more data may be I should try to merge it
 -------------------
 Before merging the data<br>
 - 
