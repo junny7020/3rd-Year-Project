@@ -57,8 +57,8 @@ there are almost all of the PubChem id for the drugs that are being used in this
 
 
 -Sanger Model<br>
-I have not quite understood it properly, but it seems like a code for a machine-learning model for this project<br>
-Maybe this could be a standard for comparing the prediction model with my DeepProfiling model<br>
+I have not quite understood it properly, but it seems like a code for a dna in cancer cells<br>
+identifier assigned to a DNA sequence obtained using the Sanger sequencing method<br>
 
 -------------------
 Before merging the data<br>
