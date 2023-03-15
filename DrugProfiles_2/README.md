@@ -7,7 +7,7 @@ Finding improvement and applying the deep-profiling method
 
 Cell_Line_Features_PANCAN_simple_MOBEM.tsv:
 
-On the first column-> part of the DNA that has been mutated
+On the first column-> part of the DNA that has been mutated<br>
 On the first row-> there is a list of long digits of numbers (Cosmic ID)
 Meaning this is a table of cancer cells(Cosmic ID) indicating which part of their DNA has been mutated.
 This will be used for the feature of cancer_cells
