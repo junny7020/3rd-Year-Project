@@ -1,8 +1,24 @@
-# DrugProfiles_2
-Second version of ml predictions of drug response curves
+# Minjun 3rd Year project
+
+Using the jupyter notebook implimented from https://github.com/MarinaKrivova/DrugProfiles_2
+Finding improvement and applying deep-profiling method
+---------------------
+analysing given data
+
+-Cosimis ID:
+idenitication 
 
 
-Logics:
+
+
+-------------------
+Before merging the data
+- 
+
+
+
+---------------
+Marina's goal
 1. find out pubchem id for the drugs used in drug profiling
 2. remove records with drugs that do not have a reported pubchem id
 3. perform filtering of the rest data to leave only valid sigmoid drug response curves
